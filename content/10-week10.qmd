@@ -1,0 +1,40 @@
+---
+title: "Week 10: Observational Studies"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - Observational Studies
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, October 28
+
+- *DASS.* Chapter 5: pp. 129-134.
+
+
+### Wednesday, October 30
+
+- *DASS.* Chapter 5: pp. 135-147.
+
+
+### Friday, November 1
+
+- *DASS.* Chapter 5: pp. 147-161.
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 6](/assignment/pset6.qmd) due Friday, November 1, at 11:59 pm on Canvas
+
+:::
+
+
+

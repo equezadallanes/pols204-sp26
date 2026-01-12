@@ -1,0 +1,29 @@
+---
+title: "Week 7: Midterm Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 7 - Midterm Exam
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Monday, October 7
+
+- Bring questions for midterm review
+
+
+
+### Wednesday, October 9
+
+- Midterm exam online. We will start in class.
+
+
+
+### Friday, October 11
+
+- NO CLASS. Tentatively
+
+

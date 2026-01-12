@@ -1,0 +1,31 @@
+---
+title: "Week 14: Dealing with Uncertainty and Thanksgiving Break"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - Dealing with Uncertainty and Thanksgiving Break
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 25
+
+- *DASS.* Chapter 7: pp. 211-217.
+
+### Deadline
+
+UPDATED: [Problem Set 9](/assignment/pset9.qmd) due Monday, November 25, at 11:59 pm on Canvas
+
+:::
+
+
+
+### Wednesday, November 27 - Friday, November 29
+
+NO CLASS. Thanksgiving break.
+

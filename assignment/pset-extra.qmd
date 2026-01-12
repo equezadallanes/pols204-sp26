@@ -1,0 +1,41 @@
+---
+title: "Problem Set - Extra Credit"
+---
+
+:::{.callout-important}
+Due December 6th at 11:59 pm on Canvas
+:::
+
+The extra credit problem set is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/774829/download?download_frd=1)
+2. [RMardown file](https://agnesscott.instructure.com/files/774828/download?download_frd=1)
+3. [Dataset](https://agnesscott.instructure.com/files/774823/download?download_frd=1)
+
+
+
+
+## Purpose
+
+This problem set will help you asses your knowledge about:
+
+1. Estimating average treatment effects with linear regression
+2. Assess the statistical significance of the results
+2. Evaluate the internal and external validity of a study
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+---
+title: "Week 17: Final Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 17 - Final Exam
+
+:::
+
+
+Sometime between December 13 and 18.
+
+

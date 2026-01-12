@@ -1,0 +1,34 @@
+---
+title: "Week 1: Introduction and Philosophy of Science"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction and Philosophy of Science
+
+:::
+
+During the first week, we will discuss the syllabus and talk about what it means for political science (or any social science, for that matter) to be a *science*.
+
+### Wednesday, January 21
+
+- [Syllabus](../index.qmd)
+
+- *Data Analysis for Social Science* (from now on DASS). Chapter 1: pp. 1-6. {{< fa file-pdf >}} available on Canvas, only for the first chapter.
+
+- Shech, Elay. 2026. "Science Keeps Changing. So Why Should We Trust It?" *The New York Times,* January 5. [{{< fa newspaper >}}](https://www.nytimes.com/2026/01/05/opinion/science-trust.html)
+
+      - As a Holy Cross student, you have acces to *The New York Times*. In you haven't done so, please sign up for an account via Ignite (it should appear under "Apps")
+
+
+### Friday, January 23
+
+- Russell, Bertrand. 1912 [2001]. "On Induction." In *Philosophy of Science: Contemporary Readings*, eds. Yuri Balashov and Alex Rosenberg, 289-93. London/New York: Routledge. {{< fa file-pdf >}} available on Canvas.
+
+- Popper, Karl. 1963 [2001]. "Science: Conjectures and Refutations." In *Philosophy of Science: Contemporary Readings*, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge. {{< fa file-pdf >}} available on Canvas.
+
+
+
+
+
+

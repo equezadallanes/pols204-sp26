@@ -1,0 +1,35 @@
+---
+title: "Problem Set 9"
+---
+
+:::{.callout-important}
+UPDATED: Due November 25th at 11:59 pm on Canvas
+:::
+
+Problem Set 9 is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/770105/download?download_frd=1)
+2. [RMardown file](https://agnesscott.instructure.com/files/770104/download?download_frd=1)
+
+
+## Purpose
+
+This problem set will help you asses your knowledge about:
+
+1. Hypothesis testing
+2. P-values
+3. Using linear regression to estimate causal effects
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

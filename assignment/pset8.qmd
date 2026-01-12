@@ -1,0 +1,30 @@
+---
+title: "Problem Set 8"
+---
+
+:::{.callout-important}
+Due November 15th at 11:59 am on Canvas
+:::
+
+Problem Set 9 is posted on Canvas.
+
+If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/765143/download?download_frd=1)
+2. [RMardown file](https://agnesscott.instructure.com/files/765142/download?download_frd=1)
+
+
+
+## Purpose
+
+This problem set will help you asses your knowledge about:
+
+1. Random variables
+2. Bernoulli and normal distributions
+3. Mathematical notation of probability distributions
+4. Sample variability
+5. The Law of Large Numbers and the Central Limit Theorem
+
+

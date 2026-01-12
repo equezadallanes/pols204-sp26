@@ -1,0 +1,66 @@
+---
+title: Installing R
+---
+
+In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using [this Rmarkdown file](https://agnesscott.instructure.com/files/727402/download?download_frd=1).
+
+
+We will install the following (in this order):
+
+1. The R language
+2. RStudio
+3. RMarkdown
+4. Tinytex
+
+# Installing R
+
+To install R, go to https://cran.rstudio.com/.
+
+Now, click on the corresponding download link for your operating system:
+
+- For Windows: install the "base" distribution. As the website says, you should install this if it is the first time installing R.
+- For MacOS: there are different binaries (or versions) for Mac, and the correct one depends on your operating system and computer processor.
+    - If your computer is running [Big Sur or higher](https://en.wikipedia.org/wiki/MacOS_version_history#Releases) (you can check your operating system by clicking on the Apple logo on the menu bar and then on "About This Mac"), then you can install the most recent version of R. Otherwise, look for the appropriate version under "Binaries for legacy MacOS/OS X systems."
+    - If you have a Mac with Apple silicon (M1, M2, or M3), install the package that says "arm64." If your Mac is running on an Intel chip, install the version that says "x86_64."
+    
+Once downloaded, install R.
+
+
+# Installing RStudio
+
+To interact with R, we will use RStudio, which you can find at https://posit.co/download/rstudio-desktop/. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.
+
+Once downloaded, install RStudio.
+
+
+# Installing RMarkdown and TinyTex
+
+Congrats! You now have R and RStudio installed in your computer. It's time to install RMarkdown and TinyTex so that you can render RMardown files as a PDF (which you will use for your problem sets).
+
+Open RStudio. Copy and paste the following line of code into the console, then press Enter.
+
+
+```{r, eval=FALSE}
+
+install.packages("rmarkdown")
+
+
+```
+
+
+Once RMarkdown is finished installing, copy and paste the following line of code into the console, then press Enter.
+
+
+```{r, eval=FALSE}
+
+install.packages('tinytex')
+
+
+```
+
+
+# Testing Our Installation
+
+It's time to make sure everything is working properly. Download [this file](https://agnesscott.instructure.com/files/727402/download?download_frd=1) and "knit" it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.
+
+

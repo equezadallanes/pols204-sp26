@@ -1,0 +1,37 @@
+---
+title: "Week 13: Dealing with Uncertainty"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - Dealing with Uncertainty
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 18
+
+- *DASS.* Chapter 7: pp. 196-203.
+
+
+### Wednesday, November 20
+
+- *DASS.* Chapter 7: pp. 202-211.
+
+
+### Friday, November 22
+
+- No assigned reading
+
+:::{.callout-important}
+
+
+### Deadline
+
+UPDATED: [Problem Set 9](/assignment/pset9.qmd) due Monday, November 25, at 11:59 pm on Canvas
+
+:::

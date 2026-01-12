@@ -1,0 +1,30 @@
+---
+title: "Week 8: Making Predictions with Linear Regression"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 8 - Making Predictions with Linear Regression
+
+:::
+
+
+
+[//]: <> (Need to write intro)
+
+### Monday, October 14
+
+NO CLASS. Fall Break.
+
+
+### Wednesday, October 16
+
+- *DASS.* Chapter 4: pp. 98-107.
+
+
+### Friday, October 18
+
+NO CLASS. (I'll be out at a conference)
+
+
+ 

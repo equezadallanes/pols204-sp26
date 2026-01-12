@@ -1,0 +1,38 @@
+---
+title: "Week 3: R 101 and Data Structure"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - R 101 and Data Structure
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, February 2
+
+- Install R before class. Follow this guide.
+
+- *DASS.* Chapter 1: pp. 7-21 (stop when you reach section 1.8).
+
+
+### Wednesday, February 4
+
+- *DASS.* Chapter 1: pp. 21-26.
+
+
+### Friday, February 6
+
+- ANES data
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Research question for group project](/assignment/researchq.qmd) due Friday, February 6, at 11:59 pm on Canvas
+
+:::
+

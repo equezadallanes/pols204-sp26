@@ -1,0 +1,39 @@
+---
+title: "Week 15: Dealing with Uncertainty"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - Dealing with Uncertainty
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, December 2
+
+- *DASS.* Chapter 7: pp. 219-229.
+
+
+### Wednesday, December 4
+
+- No assigned reading.
+
+
+### Friday, December 6
+
+:::{.callout-important}
+
+### Deadline
+
+[Extra Credit Problem Set](/assignment/pset-extra.qmd) due Friday, December 6, at 11:59 pm on Canvas
+
+:::
+
+
+
+
+

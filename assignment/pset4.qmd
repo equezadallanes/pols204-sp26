@@ -1,0 +1,59 @@
+---
+title: "Problem Set 4"
+---
+
+:::{.callout-important}
+UPDATED: Due October 2nd at 11:59 pm on Canvas
+:::
+
+Problem Set 4 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.
+
+- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/743373/)
+2. [RMardown file](https://agnesscott.instructure.com/files/743372/)
+
+
+
+## Purpose
+
+This fourth problem set will help you practice:
+
+1. Setting the working directory
+2. Loading data into R
+3. Conducting univariate analyses to understand the variables in the dataset
+4. Conducting bivariate analyses to understand the relationship between two variables
+
+
+You will use the following commands:
+
+```{r, eval=FALSE}
+
+# From the previous problem sets
+setwd()
+
+read.csv()
+
+# New in this problem set
+
+hist()
+
+plot()
+
+cor()
+
+```
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+

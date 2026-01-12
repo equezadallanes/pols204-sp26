@@ -1,0 +1,26 @@
+---
+title: "Week 2: Social Scientific Inquiry"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Social Scientific Inquiry
+
+:::
+
+### Monday, January 26
+
+- Gary King, Robert O. Keohane, and Sidney Verba. 1994. *Designing Social Inquiry: Scientific Inference in Qualitative Research.* Princeton: Princeton University Press. Chapter 1: pp 3-23 (stop at section 1.2.3). {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+### Wednesday, January 28
+
+- Kellstedt, Paul M., and Guy D. Whitten. 2018. *The Fundamentals of Political Science Research,* 3rd edition. Cambridge University Press. Chapter 3. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+ 
+### Friday, January 30
+
+- Musgrave, Paul, and Nick Davis. 2023. "A Good Thesis is a Feasible Thesis." *Thesis Statement* [blog], May 4. https://thesisstatement.substack.com/p/a-good-thesis-is-a-feasible-thesis
+
+
+

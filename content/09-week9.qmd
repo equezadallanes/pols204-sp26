@@ -1,0 +1,39 @@
+---
+title: "Week 9: Making Predictions with Linear Regression (cont.)"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - Making Predictions with Linear Regression (cont.)
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, October 21
+
+- *DASS.* Chapter 4: pp. 107-116.
+
+
+
+### Wednesday, October 23
+
+- *DASS.* Chapter 4: pp. 116-23, 126-8.
+
+
+
+### Friday, October 25
+
+- No assigned reading.
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 5](/assignment/pset5.qmd) due Friday, October 25, at 9:40 am on Canvas
+
+:::
+
+ 

@@ -1,0 +1,22 @@
+---
+title: "Week 16: Review"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Review
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, December 9
+
+- No assigned reading.
+
+
+### Wednesday, December 11
+
+- No assigned reading.
+

@@ -1,0 +1,25 @@
+---
+title: "Midterm Exam"
+---
+
+:::{.callout-important}
+Due November 20th at 10:30 am on Canvas
+:::
+
+## Purpose
+
+
+
+## Task
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

@@ -1,0 +1,55 @@
+---
+title: "Problem Set 2"
+---
+
+:::{.callout-important}
+Due September 20 at 11:59 pm on Canvas
+:::
+
+Problem Set 2 is posted on Canvas.
+
+- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/735601/)
+2. [RMardown file](https://agnesscott.instructure.com/files/735600/)
+
+
+
+## Purpose
+
+This second problem set will help you practice:
+
+1. Setting the working directory
+2. Loading data into R
+3. Computing and interpreting the mean of a variable
+4. Identifying treatment and outcome variables in a dataset
+
+
+You will use the following commands:
+
+```{r, eval=FALSE}
+
+# From the previous problem set
+setwd()
+
+read.csv()
+
+# New in this problem set
+mean()
+
+```
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

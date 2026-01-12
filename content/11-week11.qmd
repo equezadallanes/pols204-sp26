@@ -1,0 +1,38 @@
+---
+title: "Week 11: Probability"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Probability
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 4
+
+- *DASS.* Chapter 6: pp. 162-169.
+
+
+
+### Wednesday, November 6
+
+- *DASS.* Chapter 6: pp. 169-179.
+
+
+### Friday, November 8
+
+- No assigned reading.
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 7](/assignment/pset7.qmd) due Friday, November 8, at 11:59 pm on Canvas
+
+:::
+

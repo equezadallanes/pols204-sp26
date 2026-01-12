@@ -1,0 +1,57 @@
+---
+title: "Problem Set 5"
+---
+
+:::{.callout-important}
+Due October 25th at 11:59 pm on Canvas
+:::
+
+Problem Set 5 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.
+
+- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted" (1 file).^[This route requires a few more tools. You need to install [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and [TinyTeX](https://yihui.org/tinytex/). The upside? You can produce beautiful documents that show your code and output.]
+
+If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/754622/)
+2. [RMardown file](https://agnesscott.instructure.com/files/754621/)
+3. [Dataset](https://agnesscott.instructure.com/files/752006/)
+
+
+
+## Purpose
+
+This fourth problem set will help you practice:
+
+1. Understanding the components of a linear regression model
+2. Running a linear regression model in R
+3. Interpreting the output of the lm() function
+
+
+You will use the following commands:
+
+```{r, eval=FALSE}
+
+# From the previous problem sets
+read.csv()
+
+plot()
+
+cor()
+
+# New in this problem set
+
+lm()
+
+
+```
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing

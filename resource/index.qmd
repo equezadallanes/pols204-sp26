@@ -1,0 +1,17 @@
+---
+title: "Resources"
+---
+
+There are many resources online, such as online forums, that can help you as you learn to code. In fact, experienced quantitative researchers use them all the time! You are not expected to remember how to code every single task off the top of your head. You just have to know how to look things up. Googling is the first step.
+
+Some of the forums/websites you may find useful are:
+
+1. Stack Overflow
+2. Stack Exchange
+3. W3 Schools
+
+---
+
+On this section of the website, you can also find a guide to installing R and RStudio on your computer.
+
+
