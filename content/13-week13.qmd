@@ -1,10 +1,10 @@
 ---
-title: "Week 13: Dealing with Uncertainty"
+title: "Week 13: Probability"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 13 - Dealing with Uncertainty
+## Week 13 - Probability
 
 :::
 
@@ -13,25 +13,17 @@ title: "Week 13: Dealing with Uncertainty"
 
 
 
-### Monday, November 18
+### Monday, April 13
 
-- *DASS.* Chapter 7: pp. 196-203.
-
-
-### Wednesday, November 20
-
-- *DASS.* Chapter 7: pp. 202-211.
+- *DASS.* Chapter 6, sections 6.5-6.4. {{< fa book >}}
 
 
-### Friday, November 22
+### Wednesday, April 15
 
-- No assigned reading
-
-:::{.callout-important}
+- Kellstedt and Whitten, Section 8.3. {{< fa brands dropbox >}}
 
 
-### Deadline
+### Friday, April 17
 
-UPDATED: [Problem Set 9](/assignment/pset9.qmd) due Monday, November 25, at 11:59 pm on Canvas
+- *DASS.* Chapter 7: section 7.3. {{< fa book >}}
 
-:::

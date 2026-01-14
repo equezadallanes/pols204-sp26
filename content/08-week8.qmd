@@ -1,10 +1,10 @@
 ---
-title: "Week 8: Making Predictions with Linear Regression"
+title: "Week 8: The Research Process and Qualitative Approaches"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 8 - Making Predictions with Linear Regression
+## Week 8 - The Research Process and Qualitative Approaches
 
 :::
 
@@ -12,19 +12,27 @@ title: "Week 8: Making Predictions with Linear Regression"
 
 [//]: <> (Need to write intro)
 
-### Monday, October 14
+### Monday, March 9
 
-NO CLASS. Fall Break.
-
-
-### Wednesday, October 16
-
-- *DASS.* Chapter 4: pp. 98-107.
+- Kellstedt and Whitten, Chapter 2. {{< fa brands dropbox >}}
 
 
-### Friday, October 18
+### Wednesday, March 11
 
-NO CLASS. (I'll be out at a conference)
+- Group project. Bring your notes/progress.
 
+
+### Friday, March 13
+
+- Gerring, John. 2017. "Qualitative Methods." *Annual Review of Political Science* 20(1): 15–36. {{< fa brands dropbox >}}
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 3](/assignment/pset3.qmd) due Friday, March 13, at 11:59 pm on Canvas
+
+:::
 
  

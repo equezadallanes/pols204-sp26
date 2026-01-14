@@ -1,10 +1,10 @@
 ---
-title: "Week 14: Dealing with Uncertainty and Thanksgiving Break"
+title: "Week 14: Dealing with Uncertainty"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 14 - Dealing with Uncertainty and Thanksgiving Break
+## Week 14 - Dealing with Uncertainty
 
 :::
 
@@ -13,19 +13,31 @@ title: "Week 14: Dealing with Uncertainty and Thanksgiving Break"
 
 
 
-### Monday, November 25
+### Monday, April 20
 
-- *DASS.* Chapter 7: pp. 211-217.
+- *DASS.* Chapter 7, sections 7.1-7.2. {{< fa book >}}
+
+
+
+### Wednesday, April 22
+
+- NO CLASS. Academic Conference day.
+
+
+
+### Friday, April 24
+
+No in-person meeting. Recorded lecture.
+
+- *DASS.* Chapter 7, sections 7.4-7.5. {{< fa book >}}
+
+
+:::{.callout-important}
 
 ### Deadline
 
-UPDATED: [Problem Set 9](/assignment/pset9.qmd) due Monday, November 25, at 11:59 pm on Canvas
+[Problem Set 6](/assignment/pset6.qmd) due Friday, April 24, at 11:59 pm on Canvas
 
 :::
 
-
-
-### Wednesday, November 27 - Friday, November 29
-
-NO CLASS. Thanksgiving break.
 

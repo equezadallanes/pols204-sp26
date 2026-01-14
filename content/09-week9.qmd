@@ -1,38 +1,41 @@
 ---
-title: "Week 9: Making Predictions with Linear Regression (cont.)"
+title: "Week 9: Qualitative Approches"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 9 - Making Predictions with Linear Regression (cont.)
+## Week 9 - Qualitative Approches
 
 :::
 
 
 [//]: <> (Need to write intro)
 
-### Monday, October 21
+### Monday, March 16
 
-- *DASS.* Chapter 4: pp. 107-116.
+- Leech, Beth. 2002. "Asking Questions: Techniques for Semistructured Interviews." *PS: Political Science & Politics* 35(4), 665-668. {{< fa brands dropbox >}}
 
-
-
-### Wednesday, October 23
-
-- *DASS.* Chapter 4: pp. 116-23, 126-8.
+- Malik, Aditi. 2021. "Hindu–Muslim Violence in Unexpected Places: Theory and Evidence from Rural India." *Politics, Groups, and Identities* 9(1): 40–58. {{< fa brands dropbox >}}
 
 
 
-### Friday, October 25
+### Wednesday, March 18
 
-- No assigned reading.
+- No in-person meeting. Work on group project.
+
+
+
+### Friday, March 20
+
+- Greenberg, Jack B. 2024. "The Case for Agency: Three Dimensions of Discretion in Presidential Agenda Construction." *Presidential Studies Quarterly* 54(3): 290–309. {{< fa brands dropbox >}}
+
 
 
 :::{.callout-important}
 
 ### Deadline
 
-[Problem Set 5](/assignment/pset5.qmd) due Friday, October 25, at 9:40 am on Canvas
+[Group project: Literature Review and Expectations](/assignment/group-project2.qmd) due Friday, March 20, at 11:59 pm on Canvas
 
 :::
 

@@ -3,53 +3,8 @@ title: "Problem Set 1"
 ---
 
 :::{.callout-important}
-UPDATED: Due September 13th at 11:59 pm on Canvas
+Due Friday, February 13, at 11:59 pm on Canvas
 :::
-
-Problem Set 1 is posted on Canvas.
-
-- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
-
-
-### Files
-
-1. [Problem Set - PDF](https://agnesscott.instructure.com/files/731196/)
-2. [RMardown file](https://agnesscott.instructure.com/files/731195/)
-
-
-## Purpose
-
-This first problem set will help you practice:
-
-1. Setting the working directory
-2. Loading data into R
-3. Viewing and understanding observations from the dataset
-4. Identifying the type of variables you are working with
-
-
-You will use the following commands:
-
-```{r, eval=FALSE}
-
-setwd()
-
-read.csv()
-
-head()
-
-dim()
-
-
-```
-
-
-
-## Criteria for success
-
-In addition to providing the correct code and/or answer, a successful problem set will:
-
-1. Have clear explanations that demonstrate your knowledge of the material
-2. Use the "comment out" function to explain what the code is doing
 
 
 

@@ -1,10 +1,10 @@
 ---
-title: "Week 12: Probability"
+title: "Week 12: Assessing Internal and External Validity; Probability"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 12 - Probability
+## Week 12 - Assessing Internal and External Validity; Probability
 
 :::
 
@@ -12,29 +12,30 @@ title: "Week 12: Probability"
 
 
 
-### Monday, November 11
+### Monday, April 6
 
-- *DASS.* Chapter 6: pp. 179-183.
-
-
-
-### Wednesday, November 13
-
-- Class will only go until 9:55 am
-
-- *DASS.* Chapter 6: pp. 183-189.
+- NO CLASS. Easter Break.
 
 
 
-### Friday, November 15
+### Wednesday, April 8
 
-- No assigned reading
+- *DASS.* Chapter 5, sections 5.5-5.6. {{< fa book >}}
+
+
+
+### Friday, April 10
+
+- *DASS.* Chapter 6, sections 6.1-6.4. {{< fa book >}}
+
+
+
 
 :::{.callout-important}
 
 ### Deadline
 
-[Problem Set 8](/assignment/pset8.qmd) due Friday, November 15, at 11:59 pm on Canvas
+[Problem Set 5](/assignment/pset5.qmd) due Friday, April 10, at 11:59 pm on Canvas
 
 :::
 

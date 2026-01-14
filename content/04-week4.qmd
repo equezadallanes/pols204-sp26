@@ -13,19 +13,19 @@ title: "Week 4: How Experiments Work"
 
 ### Monday, February 9
 
-- *DASS.* Chapter 2: pp. 27-38.
+- *DASS.* Chapter 2. {{< fa book >}}
 
 
 
 ### Wednesday, February 11
 
-- *DASS.* Chapter 2: pp. 39-50.
+- Kellstedt and Whitten, Chapter 4: section 4.1 and 4.2. {{< fa brands dropbox >}}
 
 
 
 ### Friday, February 13
 
-- Burge, Camille D., Julian J. Wamble, and Rachel R. Cuomo. 2020. "A Certain Type of Descriptive Representative? Understanding How the Skin Tone and Gender of Candidates Influences Black Politics." *The Journal of Politics* 82(4): 1596–1601.
+- Burge, Camille D., Julian J. Wamble, and Rachel R. Cuomo. 2020. "A Certain Type of Descriptive Representative? Understanding How the Skin Tone and Gender of Candidates Influences Black Politics." *The Journal of Politics* 82(4): 1596–1601. {{< fa brands dropbox >}}
 
 
 

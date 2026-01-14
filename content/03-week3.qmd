@@ -13,26 +13,26 @@ title: "Week 3: R 101 and Data Structure"
 
 ### Monday, February 2
 
-- Install R before class. Follow this guide.
+- Install R before class. Follow [this guide](../resource/r.qmd) and upload the PDF you produce at the end.
 
-- *DASS.* Chapter 1: pp. 7-21 (stop when you reach section 1.8).
+- Download the [2024 American National Election Study (ANES) questionnaire](https://electionstudies.org/data-center/2024-time-series-study/).
 
 
 ### Wednesday, February 4
 
-- *DASS.* Chapter 1: pp. 21-26.
+- *DASS.* Chapter 1: pp. 7-26. {{< fa book >}}
 
 
 ### Friday, February 6
 
-- ANES data
+- Kellstedt and Whitten, Chapter 6. {{< fa brands dropbox >}}
 
 
 :::{.callout-important}
 
 ### Deadline
 
-[Research question for group project](/assignment/researchq.qmd) due Friday, February 6, at 11:59 pm on Canvas
+[Research question for group project](/assignment/group-project1.qmd) due Friday, February 6, at 11:59 pm on Canvas
 
 :::
 

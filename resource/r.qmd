@@ -14,7 +14,7 @@ We will install the following (in this order):
 
 # Installing R
 
-To install R, go to https://cran.rstudio.com/.
+To install R, go to <https://cran.rstudio.com/>.
 
 Now, click on the corresponding download link for your operating system:
 
@@ -28,7 +28,7 @@ Once downloaded, install R.
 
 # Installing RStudio
 
-To interact with R, we will use RStudio, which you can find at https://posit.co/download/rstudio-desktop/. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.
+To interact with R, we will use RStudio, which you can find at <https://posit.co/download/rstudio-desktop/>. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.
 
 Once downloaded, install RStudio.
 
@@ -63,4 +63,5 @@ install.packages('tinytex')
 
 It's time to make sure everything is working properly. Download [this file](https://agnesscott.instructure.com/files/727402/download?download_frd=1) and "knit" it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.
 
+If you are unable to knit the file, see [this page](https://yihui.org/tinytex/r/#debugging) and run the commands shown. Try knitting the file again.
 

@@ -1,10 +1,10 @@
 ---
-title: "Week 10: Observational Studies"
+title: "Week 10: Making Predictions with Linear Regression"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 10 - Observational Studies
+## Week 10 - Making Predictions with Linear Regression
 
 :::
 
@@ -13,26 +13,26 @@ title: "Week 10: Observational Studies"
 
 
 
-### Monday, October 28
+### Monday, March 23
 
-- *DASS.* Chapter 5: pp. 129-134.
-
-
-### Wednesday, October 30
-
-- *DASS.* Chapter 5: pp. 135-147.
+- *DASS.* Chapter 4, sections 4.1-4.3. {{< fa book >}}
 
 
-### Friday, November 1
+### Wednesday, March 25
 
-- *DASS.* Chapter 5: pp. 147-161.
+- *DASS.* Chapter 4, sections 4.4-4.5. {{< fa book >}}
+
+
+### Friday, March 27
+
+- *DASS.* Chapter 4, sections 4.6-4.7. {{< fa book >}}
 
 
 :::{.callout-important}
 
 ### Deadline
 
-[Problem Set 6](/assignment/pset6.qmd) due Friday, November 1, at 11:59 pm on Canvas
+[Problem Set 4](/assignment/pset4.qmd) due Friday, March 27, at 11:59 pm on Canvas
 
 :::
 

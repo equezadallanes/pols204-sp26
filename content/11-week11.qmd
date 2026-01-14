@@ -1,10 +1,10 @@
 ---
-title: "Week 11: Probability"
+title: "Week 11: Observational Studies"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 11 - Probability
+## Week 11 - Observational Studies
 
 :::
 
@@ -13,26 +13,19 @@ title: "Week 11: Probability"
 
 
 
-### Monday, November 4
+### Monday, March 30
 
-- *DASS.* Chapter 6: pp. 162-169.
-
-
-
-### Wednesday, November 6
-
-- *DASS.* Chapter 6: pp. 169-179.
+- *DASS.* Chapter 5, sections 5.1-5.4. {{< fa book >}}
 
 
-### Friday, November 8
+
+### Wednesday, April 1
 
 - No assigned reading.
 
-:::{.callout-important}
 
-### Deadline
+### Friday, April 3
 
-[Problem Set 7](/assignment/pset7.qmd) due Friday, November 8, at 11:59 pm on Canvas
+- NO CLASS. Easter Break.
 
-:::
 

@@ -1,10 +1,10 @@
 ---
-title: "Week 15: Dealing with Uncertainty"
+title: "Week 15: Research Presentations"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 15 - Dealing with Uncertainty
+## Week 15 - Research Presentations
 
 :::
 
@@ -13,17 +13,11 @@ title: "Week 15: Dealing with Uncertainty"
 
 
 
-### Monday, December 2
+### MoWeFri, December 2,4, and 6.
 
-- *DASS.* Chapter 7: pp. 219-229.
+- [Group project: Research Presentations](/assignment/group-project3.qmd)
+- See [Canvas]() for full presentation schedule.
 
-
-### Wednesday, December 4
-
-- No assigned reading.
-
-
-### Friday, December 6
 
 :::{.callout-important}
 

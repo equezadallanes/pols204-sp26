@@ -1,39 +1,31 @@
 ---
-title: "Week 6: Working with Survey Data (cont.)"
+title: "Week 6: Working with Survey Data and Midterm Exam"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 6 - Working with Survey Data (cont.)
+## Week 6 - Working with Survey Data and Midterm Exam
 
 :::
 
-[//]: <> (Need to write intro)
+[//]: <> (Need to write intro. Add something about making tables and graphs)
 
 
-### Monday, September 30
+### Monday, February 23
 
-- *DASS.* Chapter 3: pp. 66-76.
-
-
+- TBD
 
 
-### Wednesday, October 2
+### Wednesday, February 25
 
-- *DASS.* Chapter 3: pp. 76-97.
+- TBD
 
 
 
-### Friday, October 4
+### Friday, February 27
 
-- No reading
+- Midterm Exam
 
-:::{.callout-important}
 
-### Deadline
-
-[Problem Set 4](/assignment/pset4.qmd) due Friday, October 4, at 11:59 pm (updated) on Canvas
-
-:::
 
 

@@ -11,51 +11,30 @@ title: "Week 5: Working with Survey Data"
 [//]: <> (Need to write intro)
 
 
-### Monday, September 23
+### Monday, February 16
 
-- *DASS.* Chapter 3: pp. 51-54.
-
-
-::: {.content-visible when-format="html"}
-
- 
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/742289/)
-
-:::
+- Kellstedt and Whitten, Chapter 5. {{< fa brands dropbox >}}
 
 
-### Wednesday, September 25
+### Wednesday, February 18
 
-- *DASS.* Chapter 3: pp. 55-66.
+- *DASS.* Chapter 3, section 3.1 and 3.2. {{< fa book >}}
 
-
-::: {.content-visible when-format="html"}
-
- 
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/742290/)
-
-:::
+- Cohn, Nate. 2019. "No One Picks Up the Phone, but Which Online Polls Are the Answer?" *The New York Times,* July 2. [{{< fa newspaper >}}](https://www.nytimes.com/2019/07/02/upshot/online-polls-analyzing-reliability.html)
 
 
 
-### Friday, September 27
+### Friday, February 20
 
-- No reading
+- *DASS.* Chapter 3, section 3.3 to end. {{< fa book >}}
 
-
-::: {.content-visible when-format="html"}
-
- 
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/743381/)
-
-:::
 
 
 :::{.callout-important}
 
 ### Deadline
 
-[Problem Set 3](/assignment/pset3.qmd) due Friday, September 27, at 11:59 pm (updated) on Canvas
+[Problem Set 2](/assignment/pset2.qmd) due Friday, February 20, at 11:59 pm on Canvas
 
 :::
 

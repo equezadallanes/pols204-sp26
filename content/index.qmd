@@ -20,8 +20,8 @@ Here you can find the schedule for the semester with links to the list of readin
 
 Here's a guide to the schedule:
 
-- [**Materials**](/content/) ({{< fa book-open-reader >}}): This page contains the readings and other information (if any) for the entire week.
-- [**Assignment**](/assignment/) ({{< fa pen-ruler >}}): This page contains the instructions for each assignment.
+- **Materials** ({{< fa book-open-reader >}}): These pages contain the readings and other information (if any) for the entire week.
+- **Assignment** ({{< fa pen-ruler >}}): These pages contain the instructions for each assignment.
 
 
  

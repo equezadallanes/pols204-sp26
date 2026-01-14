@@ -1,0 +1,589 @@
+[
+  {
+    "objectID": "resource/r.html",
+    "href": "resource/r.html",
+    "title": "Installing R",
+    "section": "",
+    "text": "In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using this Rmarkdown file.\nWe will install the following (in this order):\n\nThe R language\nRStudio\nRMarkdown\nTinytex\n\n\nInstalling R\nTo install R, go to https://cran.rstudio.com/.\nNow, click on the corresponding download link for your operating system:\n\nFor Windows: install the “base” distribution. As the website says, you should install this if it is the first time installing R.\nFor MacOS: there are different binaries (or versions) for Mac, and the correct one depends on your operating system and computer processor.\n\nIf your computer is running Big Sur or higher (you can check your operating system by clicking on the Apple logo on the menu bar and then on “About This Mac”), then you can install the most recent version of R. Otherwise, look for the appropriate version under “Binaries for legacy MacOS/OS X systems.”\nIf you have a Mac with Apple silicon (M1, M2, or M3), install the package that says “arm64.” If your Mac is running on an Intel chip, install the version that says “x86_64.”\n\n\nOnce downloaded, install R.\n\n\nInstalling RStudio\nTo interact with R, we will use RStudio, which you can find at https://posit.co/download/rstudio-desktop/. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.\nOnce downloaded, install RStudio.\n\n\nInstalling RMarkdown and TinyTex\nCongrats! You now have R and RStudio installed in your computer. It’s time to install RMarkdown and TinyTex so that you can render RMardown files as a PDF (which you will use for your problem sets).\nOpen RStudio. Copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages(\"rmarkdown\")\n\nOnce RMarkdown is finished installing, copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages('tinytex')\n\n\n\nTesting Our Installation\nIt’s time to make sure everything is working properly. Download this file and “knit” it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.\nIf you are unable to knit the file, see this page and run the commands shown. Try knitting the file again.",
+    "crumbs": [
+      "Resources",
+      "Overview",
+      "Installing R"
+    ]
+  },
+  {
+    "objectID": "resource/index.html",
+    "href": "resource/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "There are many resources online, such as online forums, that can help you as you learn to code. In fact, experienced quantitative researchers use them all the time! You are not expected to remember how to code every single task off the top of your head. You just have to know how to look things up. Googling is the first step.\nSome of the forums/websites you may find useful are:\n\nStack Overflow\nStack Exchange\nW3 Schools\n\n\nOn this section of the website, you can also find a guide to installing R and RStudio on your computer.",
+    "crumbs": [
+      "Resources",
+      "Overview",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "assignment/midterm.html#task",
+    "href": "assignment/midterm.html#task",
+    "title": "Midterm Exam",
+    "section": "Task",
+    "text": "Task",
+    "crumbs": [
+      "Assignments",
+      "Exams",
+      "Midterm Exam"
+    ]
+  },
+  {
+    "objectID": "assignment/midterm.html#criteria-for-success",
+    "href": "assignment/midterm.html#criteria-for-success",
+    "title": "Midterm Exam",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
+    "crumbs": [
+      "Assignments",
+      "Exams",
+      "Midterm Exam"
+    ]
+  },
+  {
+    "objectID": "assignment/index.html",
+    "href": "assignment/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "All of the problem sets will be made available on Canvas. In this website, you can be reminded of the deadlines as well as the skills that problem set will help you practice.\nThe midterm and final exam assignments will be posted here later in the semester.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignment/pset1.html",
+    "href": "assignment/pset1.html",
+    "title": "Problem Set 1",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/pset-extra.html",
+    "href": "assignment/pset-extra.html",
+    "title": "Problem Set - Extra Credit",
+    "section": "",
+    "text": "Important\n\n\n\nDue December 6th at 11:59 pm on Canvas\nThe extra credit problem set is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set - Extra Credit"
+    ]
+  },
+  {
+    "objectID": "assignment/pset-extra.html#purpose",
+    "href": "assignment/pset-extra.html#purpose",
+    "title": "Problem Set - Extra Credit",
+    "section": "Purpose",
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nEstimating average treatment effects with linear regression\nAssess the statistical significance of the results\nEvaluate the internal and external validity of a study",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set - Extra Credit"
+    ]
+  },
+  {
+    "objectID": "assignment/pset-extra.html#criteria-for-success",
+    "href": "assignment/pset-extra.html#criteria-for-success",
+    "title": "Problem Set - Extra Credit",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set - Extra Credit"
+    ]
+  },
+  {
+    "objectID": "assignment/pset5.html",
+    "href": "assignment/pset5.html",
+    "title": "Problem Set 5",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 5"
+    ]
+  },
+  {
+    "objectID": "assignment/group-project2.html",
+    "href": "assignment/group-project2.html",
+    "title": "Literature Review and Expectations",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, March 20, at 11:59 pm on Canvas\n\n\nTBA",
+    "crumbs": [
+      "Assignments",
+      "Group Project",
+      "Literature Review and Expectations"
+    ]
+  },
+  {
+    "objectID": "assignment/group-project1.html",
+    "href": "assignment/group-project1.html",
+    "title": "Research Question",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 6, at 11:59 pm on Canvas\n\n\nTBA",
+    "crumbs": [
+      "Assignments",
+      "Group Project",
+      "Research Question"
+    ]
+  },
+  {
+    "objectID": "content/09-week9.html",
+    "href": "content/09-week9.html",
+    "title": "Week 9: Qualitative Approches",
+    "section": "",
+    "text": "Monday, March 16\n\nLeech, Beth. 2002. “Asking Questions: Techniques for Semistructured Interviews.” PS: Political Science & Politics 35(4), 665-668. \nMalik, Aditi. 2021. “Hindu–Muslim Violence in Unexpected Places: Theory and Evidence from Rural India.” Politics, Groups, and Identities 9(1): 40–58. \n\n\n\nWednesday, March 18\n\nNo in-person meeting. Work on group project.\n\n\n\nFriday, March 20\n\nGreenberg, Jack B. 2024. “The Case for Agency: Three Dimensions of Discretion in Presidential Agenda Construction.” Presidential Studies Quarterly 54(3): 290–309. \n\n\n\n\n\n\n\nDeadline\n\n\n\nGroup project: Literature Review and Expectations due Friday, March 20, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 9: Qualitative Approches"
+    ]
+  },
+  {
+    "objectID": "content/16-week16.html",
+    "href": "content/16-week16.html",
+    "title": "Week 16: Review",
+    "section": "",
+    "text": "Monday, May 4\n\nNo assigned reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nGroup project: Final Paper due Monday, May 4, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 16: Review"
+    ]
+  },
+  {
+    "objectID": "content/07-week7.html",
+    "href": "content/07-week7.html",
+    "title": "Week 7: Spring Break",
+    "section": "",
+    "text": "NO CLASS: 3/2, 3/4, and 3/6"
+  },
+  {
+    "objectID": "content/08-week8.html",
+    "href": "content/08-week8.html",
+    "title": "Week 8: The Research Process and Qualitative Approaches",
+    "section": "",
+    "text": "Monday, March 9\n\nKellstedt and Whitten, Chapter 2. \n\n\n\nWednesday, March 11\n\nGroup project. Bring your notes/progress.\n\n\n\nFriday, March 13\n\nGerring, John. 2017. “Qualitative Methods.” Annual Review of Political Science 20(1): 15–36. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 3 due Friday, March 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 8: The Research Process and Qualitative Approaches"
+    ]
+  },
+  {
+    "objectID": "content/06-week6.html",
+    "href": "content/06-week6.html",
+    "title": "Week 6: Working with Survey Data and Midterm Exam",
+    "section": "",
+    "text": "Monday, February 23\n\nTBD\n\n\n\nWednesday, February 25\n\nTBD\n\n\n\nFriday, February 27\n\nMidterm Exam",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 6: Working with Survey Data and Midterm Exam"
+    ]
+  },
+  {
+    "objectID": "content/03-week3.html",
+    "href": "content/03-week3.html",
+    "title": "Week 3: R 101 and Data Structure",
+    "section": "",
+    "text": "Monday, February 2\n\nInstall R before class. Follow this guide and upload the PDF you produce at the end.\nDownload the 2024 American National Election Study (ANES) questionnaire.\n\n\n\nWednesday, February 4\n\nDASS. Chapter 1: pp. 7-26. \n\n\n\nFriday, February 6\n\nKellstedt and Whitten, Chapter 6. \n\n\n\n\n\n\n\nDeadline\n\n\n\nResearch question for group project due Friday, February 6, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 3: R 101 and Data Structure"
+    ]
+  },
+  {
+    "objectID": "content/12-week12.html",
+    "href": "content/12-week12.html",
+    "title": "Week 12: Assessing Internal and External Validity; Probability",
+    "section": "",
+    "text": "Monday, April 6\n\nNO CLASS. Easter Break.\n\n\n\nWednesday, April 8\n\nDASS. Chapter 5, sections 5.5-5.6. \n\n\n\nFriday, April 10\n\nDASS. Chapter 6, sections 6.1-6.4. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 5 due Friday, April 10, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 12: Assessing Internal and External Validity; Probability"
+    ]
+  },
+  {
+    "objectID": "content/04-week4.html",
+    "href": "content/04-week4.html",
+    "title": "Week 4: How Experiments Work",
+    "section": "",
+    "text": "Monday, February 9\n\nDASS. Chapter 2. \n\n\n\nWednesday, February 11\n\nKellstedt and Whitten, Chapter 4: section 4.1 and 4.2. \n\n\n\nFriday, February 13\n\nBurge, Camille D., Julian J. Wamble, and Rachel R. Cuomo. 2020. “A Certain Type of Descriptive Representative? Understanding How the Skin Tone and Gender of Candidates Influences Black Politics.” The Journal of Politics 82(4): 1596–1601. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 1 due Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 4: How Experiments Work"
+    ]
+  },
+  {
+    "objectID": "content/02-week2.html",
+    "href": "content/02-week2.html",
+    "title": "Week 2: Social Scientific Inquiry",
+    "section": "",
+    "text": "Monday, January 26\n\nGary King, Robert O. Keohane, and Sidney Verba. 1994. Designing Social Inquiry: Scientific Inference in Qualitative Research. Princeton: Princeton University Press. Chapter 1: pp 3-23 (stop at section 1.2.3). \n\n\n\nWednesday, January 28\n\nKellstedt, Paul M., and Guy D. Whitten. 2018. The Fundamentals of Political Science Research, 3rd edition. Cambridge University Press. Chapter 3 (from now on Kellstedt and Whitten). \n\n\n\nFriday, January 30\n\nMusgrave, Paul, and Nick Davis. 2023. “A Good Thesis is a Feasible Thesis.” Thesis Statement [blog], May 4.",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 2: Social Scientific Inquiry"
+    ]
+  },
+  {
+    "objectID": "content/10-week10.html",
+    "href": "content/10-week10.html",
+    "title": "Week 10: Making Predictions with Linear Regression",
+    "section": "",
+    "text": "Monday, March 23\n\nDASS. Chapter 4, sections 4.1-4.3. \n\n\n\nWednesday, March 25\n\nDASS. Chapter 4, sections 4.4-4.5. \n\n\n\nFriday, March 27\n\nDASS. Chapter 4, sections 4.6-4.7. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 4 due Friday, March 27, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 10: Making Predictions with Linear Regression"
+    ]
+  },
+  {
+    "objectID": "content/15-week15.html",
+    "href": "content/15-week15.html",
+    "title": "Week 15: Research Presentations",
+    "section": "",
+    "text": "MoWeFri, December 2,4, and 6.\n\nGroup project: Research Presentations\nSee Canvas for full presentation schedule.\n\n\n\n\n\n\n\nDeadline\n\n\n\nExtra Credit Problem Set due Friday, December 6, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 15: Research Presentations"
+    ]
+  },
+  {
+    "objectID": "content/17-week17.html",
+    "href": "content/17-week17.html",
+    "title": "Week 17: Final Exam",
+    "section": "",
+    "text": "Thursday, May 14 at 3 pm.",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 17: Final Exam"
+    ]
+  },
+  {
+    "objectID": "content/05-week5.html",
+    "href": "content/05-week5.html",
+    "title": "Week 5: Working with Survey Data",
+    "section": "",
+    "text": "Monday, February 16\n\nKellstedt and Whitten, Chapter 5. \n\n\n\nWednesday, February 18\n\nDASS. Chapter 3, section 3.1 and 3.2. \nCohn, Nate. 2019. “No One Picks Up the Phone, but Which Online Polls Are the Answer?” The New York Times, July 2. \n\n\n\nFriday, February 20\n\nDASS. Chapter 3, section 3.3 to end. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 2 due Friday, February 20, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 5: Working with Survey Data"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Here you can find the schedule for the semester with links to the list of readings for each week. In addition you’ll find links to instructions for the assignments in this course.\nHere’s a guide to the schedule:\n\nMaterials (): These pages contain the readings and other information (if any) for the entire week.\nAssignment (): These pages contain the instructions for each assignment.\n\n\n\n\n\nDate\n\n\nTitle\n\n\nMaterials\n\n\nAssignment\n\n\n\n\n\n\nWeek 1\n\n\n\n\nJanuary 21\n\n\nIntroduction and Philosophy of Science\n\n\n\n\n\n\n\n\n\n\nJanuary 23\n\n\nPhilosophy of Science\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\nJanuary 26\n\n\nSocial Scientific Inquiry\n\n\n\n\n\n\n\n\n\n\nJanuary 28\n\n\nSocial Scientific Inquiry\n\n\n\n\n\n\n\n\n\n\nJanuary 30\n\n\nSocial Scientific Inquiry\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\nFebruary 2\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nFebruary 4\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nFebruary 6\n\n\nResearch Question Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\nFebruary 9\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nFebruary 11\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nFebruary 13\n\n\nProblem Set 1 Due  (submit by 09:00:00)\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\nFebruary 16\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nFebruary 18\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nFebruary 20\n\n\nProblem Set 2 Due  (submit by 09:00:00)\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\nFebruary 23\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nFebruary 25\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nFebruary 27\n\n\nMidterm Exam\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\nMarch 2–March 6\n\n\nSpring Break\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\nMarch 9\n\n\nThe Research Process\n\n\n\n\n\n\n\n\n\n\nMarch 11\n\n\nThe Research Process\n\n\n\n\n\n\n\n\n\n\nMarch 13\n\n\nQualitative Approaches\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\n\nMarch 16\n\n\nQualitative Approaches\n\n\n\n\n\n\n\n\n\n\nMarch 18\n\n\nNo in-person meeting. Work with group.\n\n\n\n\n\n\n\n\n\n\nMarch 20\n\n\nLiterature Review and Expectations  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\n\n\nMarch 23\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nMarch 25\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nMarch 27\n\n\nProblem Set 4 Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 11\n\n\n\n\nMarch 30\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nApril 1\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nApril 3\n\n\nNO CLASS. Easter Break.\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\n\n\nApril 6\n\n\nNO CLASS. Easter Break.\n\n\n\n\n\n\n\n\n\n\nApril 8\n\n\nValidity and Probability\n\n\n\n\n\n\n\n\n\n\nApril 10\n\n\nProblem Set 5 Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\n\n\nApril 13\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nApril 15\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nApril 17\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\n\n\nApril 20\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nApril 22\n\n\nNO CLASS.\n\n\n\n\n\n\n\n\n\n\nApril 24\n\n\nNo in-person meeting. Recorded lecture.\n\n\n\n\n\n\n\n\n\n\nApril 24\n\n\nProblem Set 6 Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 15\n\n\n\n\nApril 27\n\n\nResearch Presentations\n\n\n\n\n\n\n\n\n\n\nApril 29\n\n\nResearch Presentations\n\n\n\n\n\n\n\n\n\n\nMay 1\n\n\nExtra Credit Problem Set Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 16\n\n\n\n\nMay 4\n\n\nFinal Paper Due  (submit by 23:59:00)\n\n\n\n\n\n\n\n\n\n\nWeek 17\n\n\n\n\nMay 14\n\n\nFinal exam  (submit by 15:00:00)",
+    "crumbs": [
+      "Weekly Schedule",
+      "Overview",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "content/11-week11.html",
+    "href": "content/11-week11.html",
+    "title": "Week 11: Observational Studies",
+    "section": "",
+    "text": "Monday, March 30\n\nDASS. Chapter 5, sections 5.1-5.4. \n\n\n\nWednesday, April 1\n\nNo assigned reading.\n\n\n\nFriday, April 3\n\nNO CLASS. Easter Break.",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 11: Observational Studies"
+    ]
+  },
+  {
+    "objectID": "content/14-week14.html",
+    "href": "content/14-week14.html",
+    "title": "Week 14: Dealing with Uncertainty",
+    "section": "",
+    "text": "Monday, April 20\n\nDASS. Chapter 7, sections 7.1-7.2. \n\n\n\nWednesday, April 22\n\nNO CLASS. Academic Conference day.\n\n\n\nFriday, April 24\nNo in-person meeting. Recorded lecture.\n\nDASS. Chapter 7, sections 7.4-7.5. \n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 6 due Friday, April 24, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 14: Dealing with Uncertainty"
+    ]
+  },
+  {
+    "objectID": "content/01-week1.html",
+    "href": "content/01-week1.html",
+    "title": "Week 1: Introduction and Philosophy of Science",
+    "section": "",
+    "text": "During the first week, we will discuss the syllabus and talk about what it means for political science (or any social science, for that matter) to be a science.\n\nWednesday, January 21\n\nSyllabus\nData Analysis for Social Science (from now on DASS). Chapter 1: pp. 1-6.  (only for the first chapter). \nShech, Elay. 2026. “Science Keeps Changing. So Why Should We Trust It?” The New York Times, January 5. \n\nAs a Holy Cross student, you have acces to The New York Times. In you haven’t done so, please sign up for an account via Ignite (it should appear under “Apps”)\n\n\n\n\nFriday, January 23\n\nRussell, Bertrand. 1912 [2001]. “On Induction.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 289-93. London/New York: Routledge. \nPopper, Karl. 1963 [2001]. “Science: Conjectures and Refutations.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge.",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 1: Introduction and Philosophy of Science"
+    ]
+  },
+  {
+    "objectID": "content/13-week13.html",
+    "href": "content/13-week13.html",
+    "title": "Week 13: Probability",
+    "section": "",
+    "text": "Monday, April 13\n\nDASS. Chapter 6, sections 6.5-6.4. \n\n\n\nWednesday, April 15\n\nKellstedt and Whitten, Section 8.3. \n\n\n\nFriday, April 17\n\nDASS. Chapter 7: section 7.3.",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week",
+      "Week 13: Probability"
+    ]
+  },
+  {
+    "objectID": "assignment/group-project4.html",
+    "href": "assignment/group-project4.html",
+    "title": "Final Paper",
+    "section": "",
+    "text": "Important\n\n\n\nDue Monday, May 4, at 11:59 pm on Canvas\n\n\nTBA",
+    "crumbs": [
+      "Assignments",
+      "Group Project",
+      "Final Paper"
+    ]
+  },
+  {
+    "objectID": "assignment/group-project3.html",
+    "href": "assignment/group-project3.html",
+    "title": "Conference-style Presentation",
+    "section": "",
+    "text": "Important\n\n\n\nSubmit slides on Canvas before your presentation. Week of April 27.\n\n\nTBA",
+    "crumbs": [
+      "Assignments",
+      "Group Project",
+      "Conference-style Presentation"
+    ]
+  },
+  {
+    "objectID": "assignment/pset6.html",
+    "href": "assignment/pset6.html",
+    "title": "Problem Set 6",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 6"
+    ]
+  },
+  {
+    "objectID": "assignment/final.html#task",
+    "href": "assignment/final.html#task",
+    "title": "Final Exam",
+    "section": "Task",
+    "text": "Task",
+    "crumbs": [
+      "Assignments",
+      "Exams",
+      "Final Exam"
+    ]
+  },
+  {
+    "objectID": "assignment/final.html#criteria-for-success",
+    "href": "assignment/final.html#criteria-for-success",
+    "title": "Final Exam",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
+    "crumbs": [
+      "Assignments",
+      "Exams",
+      "Final Exam"
+    ]
+  },
+  {
+    "objectID": "assignment/pset4.html",
+    "href": "assignment/pset4.html",
+    "title": "Problem Set 4",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 4"
+    ]
+  },
+  {
+    "objectID": "assignment/pset3.html",
+    "href": "assignment/pset3.html",
+    "title": "Problem Set 3",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 3"
+    ]
+  },
+  {
+    "objectID": "assignment/pset2.html",
+    "href": "assignment/pset2.html",
+    "title": "Problem Set 2",
+    "section": "",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "",
+    "text": "MoWeFr\n   January 20–May 4, 2026\n   11:00 AM – 11:50 AM\n   Stein 124\n\n\n\n\n\n   Enrique Quezada-Llanes\n   Fenwick Hall 323\n   equezada@holycross.edu\n   Office hours: WF 1:00-3:00 pm and by appointment"
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course provides students with an introduction to quantitative and qualitative political science research that is necessary for original research on political and policy issues. The course focuses on three things: the development and analysis of political science research, the application of quantitative analysis, and an understanding of qualitative approaches such as interviewing and archival research. The course emphasizes hands-on training that will provide students useful skills for academic and professional setting, including an introduction to statistical software, measurement and introductory statistical analysis, the presentation of data, and strong writing. No prior data analysis or statistics background is necessary."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nUnderstand and assess empirical research in political science\nEstimate and interpret the appropriate quantities of interest to answer political science questions\nDevelop and test research questions as well as communicating results from data analysis\nUnderstand and explain fundamental concepts of statistical inference and the advantages and limitations of quantitative methods"
+  },
+  {
+    "objectID": "index.html#work-and-assessment",
+    "href": "index.html#work-and-assessment",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Work and Assessment",
+    "text": "Work and Assessment\n\nRequired Materials:\n\nLlaudet, Elena and Kosuke Imai. 2022. Data Analysis for Social Science: A Friendly and Practical Introduction. United States: Princeton University Press. \nA computer (Mac, Windows or Linux, preferably). If you are using a Chromebook or iPad, please let me know as soon as possible.\nDropbox folder with readings and datasets  (link on Canvas; please download)\n\n\n\nCourse Expectations\nStudents are expected to attend class and participate in class discussions and exercises. I expected you will have completed all readings prior to class and will come prepared with questions.\n\n\nCourse Workload\nAs a course with a course count of one, you are expected to spend 8-10 hours of work each week (not including our three 50-minute weekly course meetings).\n\n\nAssignments and grades\nFinal course grades will be assigned as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n94–100%\nC\n74–76%\n\n\nA−\n90–93%\nC−\n70–73%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n84–86%\nD\n64–66%\n\n\nB−\n80–83%\nD−\n60–63%\n\n\nC+\n77–79%\nF\n&lt; 60%\n\n\n\n\nFinal grades will be calculated based on the following components:\nParticipation (10%): All students are expected to be active participants in the class. Our learning experience will be enhanced if you come prepared and ready to engage with the material and asks questions. If you are confused about something, you are likely not the only one.\n\n\nAttendance policy:\n\nAttendance is part of your participation grade, and while there is no separate grade for attendance it is a prerequisite for in-class participation. That said, to accommodate unforeseeable circumstances, you have two unexcused absences that will not affect your participation grade. Any additional absences will hurt your participation grade. If you accumulate four unexcused absences in the semester, you will forfeit your entire participation grade. Note that students who are absent, whether excused or not, are still expected to submit the weekly summary corresponding to that class period. (Absences due to extenuating circumstances will be considered separately. Please refer to the College’s Class Attendance Policy for the college-wide policy on absences and be in communication if a situation that will keep you from attending class for an extended period of time arises.)\n\nProblem Sets (30%): You will complete six (6) problem sets throughout the semester. These problem sets will help you practice the concepts and data analysis skills we learn in class. You will have about a week to complete each problem set. I encourage you to work together with other students, but the final product should be your own work. Problem sets are due at the beginning of the class period indicated on the schedule.\nGroup Research Project (30% total): In research teams of two or three, you will write an empirical research paper (6-8 pages, double-spaced) similar to the ones political scientists publish in academic journals. For this assignment, you will use data from the American National Election Studies (ANES) to develop a research question, write a literature review, test a hypothesis, and report your results. The paper will be broken down into the following parts that you will submit throughout the semester:\n\nResearch Question (5% of final grade)\nLiterature Review and Expectations (2-3 pages, 5% of final grade)\nConference-style Presentation (12-minutes, 10% of final grade)\nFinal paper (6-8 pages, 10% of final grade)\n\nMidterm and Final Exam (15% each): The midterm and final exam will be similar in structure to the weekly problem sets. For these exams, you will be working with some popular survey data that social scientists collect with regularity, such as the General Social Survey and American National Election Study datasets. No collaboration is permitted for the exams. However, students are allowed to use a single letter-sized sheet of hand-written notes (two-sided). Both midterm and final exams will be administered via Canvas.\nExtra Credit Opportunity: There is an additional problem set you can complete for extra credit. This can add a maximum of three (3) percentage points to your final grade.\n\nCollaboration Policy\nLearning how to analyze data can be challenging but it may be easier if you work together. In fact, I encourage you to talk with your peers about the course materials and assignments. That said, each student should do and submit their own work. Collaboration does not mean you end up with the exact same code or answer.\n\n\nCommunication Policy\nIf you have questions about class in general or about a specific assignment, you can email me or come by my office. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. In addition, if my office door is open, feel free to stop by. Please note that I will not be “pre-grading” assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours.\n\n\nRegrading Policy\nIf a student wishes to appeal a grade, they must do so in writing within one week of receiving their graded assignment back. The student must indicate clearly what part of the assignment’s grading they disagree with, making sure to respond to the instructor’s comments in that section and making their case for why they should not have been deducted points. These requests should be done via email and the subject name should read “POLS 204 Regrading request - [Name of assignment].”\n\n\nAcademic Integrity and Generative AI Policy\nAll education is a cooperative enterprise between faculty and students. This cooperation requires trust and mutual respect, which are only possible in an environment governed by the principles of academic integrity. As an institution devoted to teaching, learning, and intellectual inquiry, Holy Cross expects all members of the College community to abide by the highest standards of academic integrity. Any violation of academic integrity undermines the student-faculty relationship, thereby wounding the whole community. Students in this class are required to read the full text of the College’s Academic Integrity Policy and to abide by its standards.\nUnless otherwise noted, you are expected to complete all coursework independently without the use of generative AI tools (e.g., ChatGPT, Claude, Gemini). Because this course emphasizes learning basic programming skills, using AI tools at this stage runs counter to our goals. Because the assumption in this course is that all code students submit is original to them, cases where students turn in AI-generated content will be considered cheating.\nInstead of relying on AI tools, I encourage you to use forums like Stack Overflow. If you are unsure about how make your code do what you want or do not know how to fix code that won’t run, chances are someone has asked a similar question in Stack Overflow and you can repurpose the code people share there.\n\n\nCourse Accessibility and Academic Accommodations\nThe College of the Holy Cross is committed “to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws.”\nAny student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations.\nThe office can be reached by calling 508-793-3693. If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Instructors need at least 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.\n\n\nWellbeing and Mental Health\nThe wellbeing and mental health of students is important. If you are having trouble managing your coursework and are experiencing unusual amounts of stress, sadness, or anxiety, the College has resources you may find useful. Please reach out to Student Wellness Education or the office of Counseling and Psychological Services.\n\n\nTitle IX\nIf you have experienced any form of sexual harassment or violence, dating or domestic violence, or stalking, please talk to any faculty or staff member with whom you feel comfortable. Faculty and staff members want to support you and have been trained to help. They will also inform the Title IX office so that you learn about options available to you. If you do not want college administrators to know what you have experienced, you may speak to a chaplain or counseling services with complete confidentiality. They will not tell anyone what you share with them unless you give your express permission. You may contact the Title IX Office directly at titleix@holycross.edu.\n\n\nChosen Names and Personal Pronouns\nEveryone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don’t make assumptions based on your name and/or appearance/self-presentation. If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name.\n\n\nCenter for Writing and Writer’s Workshop\nThe Center for Writing offers one-on-one appointments with trained peer consultants trough their Writer’s Workshop who can help you improve your communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at https://holycross.mywconline.com/.\n\n\nRecording of Classes\nPlease note that, consistent with applicable federal and state law, this course may be video/audio recorded as an accommodation only with permission from the Office of Accessibility Services. Students are not permitted to record the contents of this class under any other circumstances.\n\n\nSyllabus Change Policy\nThis syllabus is only a guide for the course and is subject to change with advanced notice."
+  },
+  {
+    "objectID": "index.html#collaboration-policy",
+    "href": "index.html#collaboration-policy",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Collaboration Policy",
+    "text": "Collaboration Policy\nLearning how to analyze data can be challenging but it may be easier if you work together. In fact, I encourage you to talk with your peers about the course materials and assignments. That said, each student should do and submit their own work. Collaboration does not mean you end up with the exact same code or answer."
+  },
+  {
+    "objectID": "index.html#communication-policy",
+    "href": "index.html#communication-policy",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Communication Policy",
+    "text": "Communication Policy\nIf you have questions about class in general or about a specific assignment, you can email me or come by my office. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. In addition, if my office door is open, feel free to stop by. Please note that I will not be “pre-grading” assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours."
+  },
+  {
+    "objectID": "index.html#regrading-policy",
+    "href": "index.html#regrading-policy",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Regrading Policy",
+    "text": "Regrading Policy\nIf a student wishes to appeal a grade, they must do so in writing within one week of receiving their graded assignment back. The student must indicate clearly what part of the assignment’s grading they disagree with, making sure to respond to the instructor’s comments in that section and making their case for why they should not have been deducted points. These requests should be done via email and the subject name should read “POLS 204 Regrading request - [Name of assignment].”"
+  },
+  {
+    "objectID": "index.html#academic-integrity-and-generative-ai-policy",
+    "href": "index.html#academic-integrity-and-generative-ai-policy",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Academic Integrity and Generative AI Policy",
+    "text": "Academic Integrity and Generative AI Policy\nAll education is a cooperative enterprise between faculty and students. This cooperation requires trust and mutual respect, which are only possible in an environment governed by the principles of academic integrity. As an institution devoted to teaching, learning, and intellectual inquiry, Holy Cross expects all members of the College community to abide by the highest standards of academic integrity. Any violation of academic integrity undermines the student-faculty relationship, thereby wounding the whole community. Students in this class are required to read the full text of the College’s Academic Integrity Policy and to abide by its standards.\nUnless otherwise noted, you are expected to complete all coursework independently without the use of generative AI tools (e.g., ChatGPT, Claude, Gemini). Because this course emphasizes learning basic programming skills, using AI tools at this stage runs counter to our goals. Because the assumption in this course is that all code students submit is original to them, cases where students turn in AI-generated content will be considered cheating.\nInstead of relying on AI tools, I encourage you to use forums like Stack Overflow. If you are unsure about how make your code do what you want or do not know how to fix code that won’t run, chances are someone has asked a similar question in Stack Overflow and you can repurpose the code people share there."
+  },
+  {
+    "objectID": "index.html#course-accessibility-and-academic-accommodations",
+    "href": "index.html#course-accessibility-and-academic-accommodations",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Course Accessibility and Academic Accommodations",
+    "text": "Course Accessibility and Academic Accommodations\nThe College of the Holy Cross is committed “to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws.”\nAny student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations.\nThe office can be reached by calling 508-793-3693. If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Instructors need at least 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations."
+  },
+  {
+    "objectID": "index.html#wellbeing-and-mental-health",
+    "href": "index.html#wellbeing-and-mental-health",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Wellbeing and Mental Health",
+    "text": "Wellbeing and Mental Health\nThe wellbeing and mental health of students is important. If you are having trouble managing your coursework and are experiencing unusual amounts of stress, sadness, or anxiety, the College has resources you may find useful. Please reach out to Student Wellness Education or the office of Counseling and Psychological Services."
+  },
+  {
+    "objectID": "index.html#title-ix",
+    "href": "index.html#title-ix",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Title IX",
+    "text": "Title IX\nIf you have experienced any form of sexual harassment or violence, dating or domestic violence, or stalking, please talk to any faculty or staff member with whom you feel comfortable. Faculty and staff members want to support you and have been trained to help. They will also inform the Title IX office so that you learn about options available to you. If you do not want college administrators to know what you have experienced, you may speak to a chaplain or counseling services with complete confidentiality. They will not tell anyone what you share with them unless you give your express permission. You may contact the Title IX Office directly at titleix@holycross.edu."
+  },
+  {
+    "objectID": "index.html#chosen-names-and-personal-pronouns",
+    "href": "index.html#chosen-names-and-personal-pronouns",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Chosen Names and Personal Pronouns",
+    "text": "Chosen Names and Personal Pronouns\nEveryone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don’t make assumptions based on your name and/or appearance/self-presentation. If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name."
+  },
+  {
+    "objectID": "index.html#center-for-writing-and-writers-workshop",
+    "href": "index.html#center-for-writing-and-writers-workshop",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Center for Writing and Writer’s Workshop",
+    "text": "Center for Writing and Writer’s Workshop\nThe Center for Writing offers one-on-one appointments with trained peer consultants trough their Writer’s Workshop who can help you improve your communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at https://holycross.mywconline.com/."
+  },
+  {
+    "objectID": "index.html#recording-of-classes",
+    "href": "index.html#recording-of-classes",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Recording of Classes",
+    "text": "Recording of Classes\nPlease note that, consistent with applicable federal and state law, this course may be video/audio recorded as an accommodation only with permission from the Office of Accessibility Services. Students are not permitted to record the contents of this class under any other circumstances."
+  },
+  {
+    "objectID": "index.html#syllabus-change-policy",
+    "href": "index.html#syllabus-change-policy",
+    "title": "POLS 204: Performing Research in Political Science",
+    "section": "Syllabus Change Policy",
+    "text": "Syllabus Change Policy\nThis syllabus is only a guide for the course and is subject to change with advanced notice."
+  },
+  {
+    "objectID": "resource/website.html",
+    "href": "resource/website.html",
+    "title": "This Course and Website",
+    "section": "",
+    "text": "This course relies on the materials created and used by Elena Llaudet (Suffolk University) for her textbook Data Analysis for Social Science (co-authored with Kosuke Imai).\nThis website was built using Quarto and RStudio, and is based on the course website by Andrew Heiss (at https://evalf22.classes.andrewheiss.com/) along with the changes made by Matt Blackwell (at https://gov50.mattblackwell.org).\nThe site is hosted on Github.",
+    "crumbs": [
+      "Resources",
+      "Overview",
+      "This Course and Website"
+    ]
+  },
+  {
+    "objectID": "resource/reading.html",
+    "href": "resource/reading.html",
+    "title": "Reading Political Science",
+    "section": "",
+    "text": "For this course, you will be required to read journal articles and book chapters that political scientists write for other political scientists (or other social scientists). Even beyond this course, you have probably already encountered academic texts that are different from that which you find in popular media.\nThe following two readings can help you read these pieces more efficiently.\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.” \n\nThis article offers a good introduction to reading a regression table:\n\nMiller, Steven V. “Reading a Regression Table: A Guide for Students.” Blog post.",
+    "crumbs": [
+      "Resources",
+      "Overview",
+      "Reading Political Science"
+    ]
+  }
+]
