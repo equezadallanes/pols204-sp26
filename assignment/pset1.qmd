@@ -7,4 +7,34 @@ Due Friday, February 13, at 11:59 pm on Canvas
 :::
 
 
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+
+### Files
+
+1. [Problem Set - PDF](https://hc.instructure.com/files/2757534/download?download_frd=1)
+2. [RMardown file](https://hc.instructure.com/courses/15227/files/2757530/download?download_frd=1)
+
+
+## Purpose
+
+This first problem set will help you practice:
+
+1. Setting the working directory
+2. Loading data into R
+3. Viewing and understanding observations from the dataset
+4. Identifying the type of variables you are working with
+5. Computing and interpreting the mean of a variable
+6. Identifying treatment and outcome variables in a dataset
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
 

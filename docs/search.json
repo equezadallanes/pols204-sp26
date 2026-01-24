@@ -512,7 +512,31 @@
     "href": "assignment/pset1.html",
     "title": "Problem Set 1",
     "section": "",
-    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas",
+    "text": "Important\n\n\n\nDue Friday, February 13, at 11:59 pm on Canvas\nUse the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is “knitted.”",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/pset1.html#purpose",
+    "href": "assignment/pset1.html#purpose",
+    "title": "Problem Set 1",
+    "section": "Purpose",
+    "text": "Purpose\nThis first problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nViewing and understanding observations from the dataset\nIdentifying the type of variables you are working with\nComputing and interpreting the mean of a variable\nIdentifying treatment and outcome variables in a dataset",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/pset1.html#criteria-for-success",
+    "href": "assignment/pset1.html#criteria-for-success",
+    "title": "Problem Set 1",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
     "crumbs": [
       "Assignments",
       "Problem Sets",

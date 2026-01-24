@@ -2,7 +2,7 @@
 title: Installing R
 ---
 
-In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using [this Rmarkdown file](https://agnesscott.instructure.com/files/727402/download?download_frd=1).
+In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using [this Rmarkdown file](https://hc.instructure.com/courses/15227/files/2757502/download?download_frd=1).
 
 
 We will install the following (in this order):
@@ -61,7 +61,7 @@ install.packages('tinytex')
 
 # Testing Our Installation
 
-It's time to make sure everything is working properly. Download [this file](https://agnesscott.instructure.com/files/727402/download?download_frd=1) and "knit" it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.
+It's time to make sure everything is working properly. Download [this file](https://hc.instructure.com/courses/15227/files/2757502/download?download_frd=1) and "knit" it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.
 
 If you are unable to knit the file, see [this page](https://yihui.org/tinytex/r/#debugging) and run the commands shown. Try knitting the file again.
 
