@@ -409,7 +409,7 @@
     "href": "content/06-week6.html",
     "title": "Week 6: Working with Survey Data and Midterm Exam",
     "section": "",
-    "text": "Monday, February 23\n\nTBD\n\n\n\nWednesday, February 25\n\nTBD\n\n\n\nFriday, February 27\n\nMidterm Exam",
+    "text": "Monday, February 23\n\nTBD\n\n\n\nWednesday, February 25\n\nBegin midterm exam\n\n\n\nFriday, February 27\n\nFinish midterm exam by the end of class",
     "crumbs": [
       "Weekly Schedule",
       "Week",
@@ -640,23 +640,11 @@
     ]
   },
   {
-    "objectID": "assignment/midterm.html#task",
-    "href": "assignment/midterm.html#task",
+    "objectID": "assignment/midterm.html",
+    "href": "assignment/midterm.html",
     "title": "Midterm Exam",
-    "section": "Task",
-    "text": "Task",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Midterm Exam"
-    ]
-  },
-  {
-    "objectID": "assignment/midterm.html#criteria-for-success",
-    "href": "assignment/midterm.html#criteria-for-success",
-    "title": "Midterm Exam",
-    "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
+    "section": "",
+    "text": "Exam instructions will be provided on Canvas.\nYou must complete the exam by Friday, February 27 at noon.",
     "crumbs": [
       "Assignments",
       "Exams",

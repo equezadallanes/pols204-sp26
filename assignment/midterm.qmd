@@ -3,20 +3,7 @@ title: "Midterm Exam"
 ---
 
 
-## Purpose
+Exam instructions will be provided on Canvas.
 
-
-
-## Task
-
-
-
-## Criteria for success
-
-In addition to providing the correct code and/or answer, a successful problem set will:
-
-1. Have clear explanations that demonstrate your knowledge of the material
-2. Use the "comment out" function to explain what the code is doing
-
-
+You must complete the exam by Friday, February 27 at noon.
 
