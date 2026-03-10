@@ -17,7 +17,7 @@ Use the RMarkdown file provided (.Rmd extension) and write your answers and code
 
 ## Purpose
 
-This first problem set will help you practice:
+This second problem set will help you practice:
 
 1. Setting the working directory
 2. Loading data into R
