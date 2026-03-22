@@ -6,3 +6,32 @@ title: "Problem Set 4"
 Due Friday, March 27, at 11:59 pm on Canvas
 :::
 
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+
+### Files
+
+1. [Problem Set - PDF](https://hc.instructure.com/files/2836349/download?download_frd=1)
+2. [RMardown file](https://hc.instructure.com/files/2836350/download?download_frd=1)
+
+
+
+## Purpose
+
+This fourth problem set will help you practice:
+
+1. Understanding the components of a linear regression model
+2. Running a linear regression model in R
+3. Interpreting the output of the lm() function
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+
