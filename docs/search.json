@@ -644,7 +644,31 @@
     "href": "assignment/pset5.html",
     "title": "Problem Set 5",
     "section": "",
-    "text": "Important\n\n\n\nDue Friday, April 10, at 11:59 pm on Canvas",
+    "text": "Important\n\n\n\nDue Friday, April 10, at 11:59 pm on Canvas\nUse the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is “knitted.”",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 5"
+    ]
+  },
+  {
+    "objectID": "assignment/pset5.html#purpose",
+    "href": "assignment/pset5.html#purpose",
+    "title": "Problem Set 5",
+    "section": "Purpose",
+    "text": "Purpose\nThis fourth problem set will help you practice:\n\nUnderstanding the components of a linear regression model\nRunning a linear regression model in R\nInterpreting the output of the lm() function\nDetermining whether a study uses experimental or observational data\nIdentify the average treatment effect in a study\nAssess the internal and external validity of a study",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 5"
+    ]
+  },
+  {
+    "objectID": "assignment/pset5.html#criteria-for-success",
+    "href": "assignment/pset5.html#criteria-for-success",
+    "title": "Problem Set 5",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
     "crumbs": [
       "Assignments",
       "Problem Sets",
