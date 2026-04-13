@@ -6,7 +6,40 @@ title: "Conference-style Presentation"
 Submit slides on Canvas before your presentation. Week of April 27.
 :::
 
-TBA
 
+Your research presentations will take place during the week of April 27. Your presentation should be between 10-12 minutes, and there will be about five minutes for questions from your peers.
+
+
+# Organization of the Presentation
+
+Your presentation must include the following sections:
+
+1. Motivation: use an example that shows why your question matters or some interesting data that captures the audience's attention
+
+2. Research Question: this may come before or after the literature review (whatever you think works best in the flow of the presentation)
+
+3. Literature Review: tell us what we know and what we don't know in a couple of slides.
+
+4. Theory and Expectations
+
+5. Data and Methods
+
+6. Results
+
+7. Implications and Conclusion
+
+
+
+
+# Criteria for Success
+
+A successful research presentation will:
+
+1. Present a clear research question toward the beginning
+2. Provide scholarly context for the research question (i.e., literature review)
+3. Sufficiently explain all relevant concepts and how they connect
+4. Provide a substantive interpretation of the statistical analysis
+5. Include only necessary information in the slides (don't overcrowd them)
+6. Use appropriate pace and tone
 
 
