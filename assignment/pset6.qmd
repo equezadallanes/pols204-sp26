@@ -7,3 +7,31 @@ Due Friday, April 24, at 11:59 pm on Canvas
 :::
 
 
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+### Files
+
+1. [Problem Set - PDF](https://hc.instructure.com/files/2852927/download?download_frd=1)
+2. [RMardown file](https://hc.instructure.com/files/2852928/download?download_frd=1)
+
+
+## Purpose
+
+This problem set will help you asses your knowledge about:
+
+1. Random variables
+2. Bernoulli and normal distributions
+3. Mathematical notation of probability distributions
+4. Sample variability
+5. The Law of Large Numbers and the Central Limit Theorem
+6. Hypothesis testing
+7. P-values
+8. Using linear regression to estimate causal effects
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing

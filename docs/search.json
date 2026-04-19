@@ -265,7 +265,31 @@
     "href": "assignment/pset6.html",
     "title": "Problem Set 6",
     "section": "",
-    "text": "Important\n\n\n\nDue Friday, April 24, at 11:59 pm on Canvas",
+    "text": "Important\n\n\n\nDue Friday, April 24, at 11:59 pm on Canvas\nUse the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is “knitted.”",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 6"
+    ]
+  },
+  {
+    "objectID": "assignment/pset6.html#purpose",
+    "href": "assignment/pset6.html#purpose",
+    "title": "Problem Set 6",
+    "section": "Purpose",
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nRandom variables\nBernoulli and normal distributions\nMathematical notation of probability distributions\nSample variability\nThe Law of Large Numbers and the Central Limit Theorem\nHypothesis testing\nP-values\nUsing linear regression to estimate causal effects",
+    "crumbs": [
+      "Assignments",
+      "Problem Sets",
+      "Problem Set 6"
+    ]
+  },
+  {
+    "objectID": "assignment/pset6.html#criteria-for-success",
+    "href": "assignment/pset6.html#criteria-for-success",
+    "title": "Problem Set 6",
+    "section": "Criteria for success",
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
     "crumbs": [
       "Assignments",
       "Problem Sets",
